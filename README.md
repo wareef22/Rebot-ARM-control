@@ -5,7 +5,7 @@ First of All i start with the html code to create and design the interface
 ![image](https://user-images.githubusercontent.com/85804755/122679957-afb50180-d1f5-11eb-874c-de5272f28321.png)
 then i start create the database with Phpmyadmin i Create the database with the name( robort)
 
-then i create 4 Tables table for the motors and tables for the buttons (Save,on,of,)
+then i create 4 Tables table for the motors and tables for the buttons (Save,on,of,motor)
 
 then i start writing the JavaScript code for the motors
 
